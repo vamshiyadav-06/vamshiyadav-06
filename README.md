@@ -49,60 +49,33 @@ My work spans:
 
 I enjoy taking an idea from prototype to a usable product with clean interfaces, robust APIs, and measurable value.
 
-```python  
+```python
 class VamshiYadav:
 
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.languages = [
-            "Python",
-            "SQL",
-            "Java"
-        ]
+    role = "AI Engineer"
+    mission = "Turning ideas into intelligent products."
 
-        self.specialization = [
-            "Agentic AI",
-            "LLM Applications",
-            "Retrieval-Augmented Generation",
-            "AI Automation",
-            "Computer Vision"
-        ]
+    stack = {
+        "AI": ["LLMs", "RAG", "AI Agents", "LangChain", "LangGraph"],
+        "Backend": ["FastAPI", "Python"],
+        "Frontend": ["Streamlit"],
+        "Database": ["Supabase", "PostgreSQL", "MySQL"],
+        "Deployment": ["Docker", "Render", "GitHub Actions"],
+    }
 
-        self.tech_stack = {
-            "AI": [
-                "OpenAI",
-                "LangChain",
-                "LangGraph",
-                "FAISS",
-                "SentenceTransformers"
-            ],
-            "Backend": [
-                "FastAPI",
-                "REST APIs"
-            ],
-            "Frontend": [
-                "Streamlit"
-            ],
-            "Database": [
-                "Supabase",
-                "PostgreSQL",
-                "MySQL"
-            ],
-            "Deployment": [
-                "Docker",
-                "Render",
-                "GitHub Actions"
-            ]
-        }
+    currently_building = [
+        "Production-ready AI Applications",
+        "Enterprise RAG Systems",
+        "Multi-Agent AI Workflows",
+    ]
 
-        self.currently_building = [
-            "Production-ready AI Agents",
-            "Enterprise RAG Systems",
-            "Multi-Agent Workflows"
-        ]
+    motto = (
+        "Code with purpose. Build with intelligence. Ship with confidence."
+    )
 
-        self.motto = (
-            "Turning ideas into intelligent products."
+
+if __name__ == "__main__":
+    print("👋 Welcome to my GitHub!")
         )
 
     def build(self):
