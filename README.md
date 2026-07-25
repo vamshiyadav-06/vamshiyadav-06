@@ -50,22 +50,62 @@ My work spans:
 I enjoy taking an idea from prototype to a usable product with clean interfaces, robust APIs, and measurable value.
 
 ```python  
-class AIEngineer:  
-    focus = [  
-        "Agentic AI",  
-        "LLM Applications",  
-        "RAG Systems",  
-        "AI Automation",  
-        "Computer Vision",  
-        "Production APIs",  
-    ]  
+class VamshiYadav:
 
-    tools = [  
-        "Python",  
-        "FastAPI",  
-        "LangChain",  
-        "LangGraph",  
-        "OpenAI",  
-        "FAISS",  
-        "Docker",  
-    ]  
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.languages = [
+            "Python",
+            "SQL",
+            "Java"
+        ]
+
+        self.specialization = [
+            "Agentic AI",
+            "LLM Applications",
+            "Retrieval-Augmented Generation",
+            "AI Automation",
+            "Computer Vision"
+        ]
+
+        self.tech_stack = {
+            "AI": [
+                "OpenAI",
+                "LangChain",
+                "LangGraph",
+                "FAISS",
+                "SentenceTransformers"
+            ],
+            "Backend": [
+                "FastAPI",
+                "REST APIs"
+            ],
+            "Frontend": [
+                "Streamlit"
+            ],
+            "Database": [
+                "Supabase",
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "Deployment": [
+                "Docker",
+                "Render",
+                "GitHub Actions"
+            ]
+        }
+
+        self.currently_building = [
+            "Production-ready AI Agents",
+            "Enterprise RAG Systems",
+            "Multi-Agent Workflows"
+        ]
+
+        self.motto = (
+            "Turning ideas into intelligent products."
+        )
+
+    def build(self):
+        return "Shipping AI solutions 🚀"
+
+print(VamshiYadav().build())
