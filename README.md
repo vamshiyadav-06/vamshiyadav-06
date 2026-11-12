@@ -1,138 +1,105 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31,43&height=240&section=header&text=Vamshi%20Yadav&fontSize=54&fontAlignY=36&desc=AI%20Engineer%20•%20Agentic%20Systems%20•%20Production%20LLMs&descAlignY=58&descSize=19&fontColor=ffffff" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Vamshi%20Yadav&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20%7C%20Agentic%20Systems&descAlignY=60&descSize=17" width="100%" alt="Vamshi Yadav banner" />
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamshiyadav-06)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+  [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/vamshiyadav-06)
+  [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
-### Building practical AI applications, from intelligent workflows to deployable systems.
+  <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vamshi-4c7e.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-budida-087151425/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamshiyadav-06)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Production-Ready+RAG+Pipelines;Architecting+Autonomous+Multi-Agent+Workflows;Deploying+Scalable+FastAPI+%2B+Streamlit+Apps;Designing+Human-Centered+Intelligent+Products" alt="Typing SVG" />
 </div>
 
-## About Me
+---
 
-I'm **Vamshi Yadav**, a Python developer focused on **generative AI, retrieval-augmented generation (RAG), and agentic workflows**. I enjoy connecting language models with real tools, structured data, and intuitive interfaces to solve practical problems.
+## ⚡ About Me
 
-My work spans **FastAPI backends, AI-assisted research, document processing, database integration, and application deployment**. I focus on building maintainable systems, improving answer quality, and making AI applications useful beyond the prototype stage.
+I am an **AI Engineer & Python Developer** focused on turning complex language models and agentic architectures into reliable, human-centered products. My work emphasizes full-lifecycle AI engineering—from prompt and agent orchestration to vectorized document retrieval, high-throughput backend APIs, and modern web interfaces.
 
-- **Currently exploring:** Agent orchestration, Model Context Protocol (MCP), retrieval evaluation, and secure AI application design.
-- **Interested in:** Python development, GenAI engineering, AI agents, and backend engineering.
-- **Based in:** Hyderabad, India.
+* 🧠 **Specialization:** Enterprise RAG architectures, Multi-Agent Coordination (LangGraph), and Document Intelligence.
+* 🛠️ **Engineering:** High-performance async APIs with FastAPI, clean prototyping in Streamlit, and scalable PostgreSQL/Supabase data layers.
+* 🚀 **Deployment:** Containerized workflows with Docker and continuous cloud deployment via Render.
+* 🎯 **Motto:** *"Code with purpose. Build with intelligence. Ship with confidence."*
 
-## Featured Work
+---
+
+## 🏗️ Core Architectural Areas## 🧰 Tech Stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<h3>AI Research Assistant</h3>
-<p>Research and document-generation assistant combining web search, website reading, PDF analysis, and LLM-powered tool selection.</p>
-<p><strong>Engineering highlights:</strong> FastAPI endpoints, Streamlit UI, Groq integration, planning and reflection stages, and DOCX generation.</p>
-<p><code>Python</code> <code>FastAPI</code> <code>Streamlit</code> <code>Groq</code> <code>Tavily</code></p>
-<a href="https://github.com/vamshiyadav-06/AI_Research_Assistant"><strong>View repository →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>Developer Portfolio</h3>
-<p>A deployed personal website presenting my development background and projects.</p>
-<p><strong>Engineering highlights:</strong> Frontend implementation, responsive presentation, and Vercel hosting.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Vercel</code></p>
-<a href="https://github.com/vamshiyadav-06/portfolio"><strong>View repository →</strong></a> · <a href="https://portfolio-vamshi-4c7e.vercel.app/"><strong>Live site →</strong></a>
-</td>
-</tr>
+  <thead>
+    <tr>
+      <th width="22%">Domain</th>
+      <th>Technologies & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AI & Agents</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=diagram-next&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG_Pipelines-38BDF8?style=flat-square&logo=databricks&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend & Core</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Databases & Storage</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector_Embeddings-6366F1?style=flat-square&logo=aerospike&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>DevOps & Cloud</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-## Technical Toolkit
+---
 
-| Area | Tools & Technologies |
-| --- | --- |
-| **Languages & backend** | Python, SQL, FastAPI, Pydantic |
-| **Generative AI** | LLM APIs, prompt engineering, RAG, embeddings, LangChain, LangGraph |
-| **Agentic workflows** | Tool calling, agent planning, MCP concepts, workflow orchestration |
-| **Data & retrieval** | PostgreSQL, pgvector, MySQL, FAISS, document processing |
-| **Applications** | Streamlit, React, TypeScript, REST APIs |
-| **Delivery & tooling** | Git, GitHub, Docker, Render, Vercel |
+## 📌 Featured Projects & Systems
 
-## How I Approach AI Engineering
+| Project | Description | Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Agentic Workflow Hub** | Orchestrated multi-agent task runner with autonomous routing & tool execution | `LangGraph` `Python` `FastAPI` | Dynamic agent delegation, contextual memory |
+| **Enterprise RAG Engine** | Production-ready question answering over enterprise documents | `LangChain` `VectorDB` `PostgreSQL` | Hybrid search, reranking, low hallucination |
+| **AI Content Generator** | Automated multi-format content creation suite deployed to production | `FastAPI` `Streamlit` `Render` | Async streaming responses, UI state management |
 
-```text
-User request
-    ↓
-Input validation and intent understanding
-    ↓
-Relevant tools / retrieval / application logic
-    ↓
-LLM reasoning and response generation
-    ↓
-Quality checks and structured output
-    ↓
-API or user interface
-```
+---
 
-I care about **grounded responses, clear system boundaries, reliable APIs, security, and observable behavior**. I also enjoy evaluating where a simple API call is sufficient versus where retrieval or agent orchestration adds real value.
-
-
-
-<h2 align="center">📊 GitHub Activity & Statistics</h2>
+## 📊 Activity & Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="160" alt="Top Languages" />
+</div>
 
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    alt="Vamshi's GitHub Stats"
-    height="170"
-  />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshiyadav-06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="170"
-  />
+---
 
-  <br/>
-  <br/>
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=vamshiyadav-06&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-    width="65%"
-  />
-
-  <br/>
-  <br/>
-
-  <!-- Contribution Activity Graph -->
-  <a href="https://github.com/vamshiyadav-06">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true&area=true&radius=8"
-      alt="GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-
-  <br/>
-  <br/>
-
-  <!-- GitHub Profile -->
-  <a href="https://github.com/vamshiyadav-06?tab=overview">
-    <img
-      src="https://img.shields.io/badge/View_My_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub Contributions"
-    />
-  </a>
-
-  <br/>
-  <br/>
-
-  <p><b>Build thoughtfully. Test rigorously. Keep improving.</b></p>
-
-  <!-- Footer -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"
-    width="100%"
-    alt="Footer Wave"
-  />
-
+<div align="center">
+  <sub>Built with precision by <b>Vamshi Yadav</b> • Hyderabad, India</sub>
 </div>
