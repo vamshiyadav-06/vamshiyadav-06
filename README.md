@@ -96,13 +96,19 @@ I care about **grounded responses, clear system boundaries, reliable APIs, secur
 
   <br/>
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="85%"
-  />
+  
+<h2 align="center">📈 GitHub Contribution Graph</h2>
 
+<div align="center">
+  <a href="https://github.com/vamshiyadav-06">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=github-dark&hide_border=true&area=true"
+      alt="Vamshi Yadav GitHub Contribution Graph"
+      width="100%"
+    />
+  </a>
 </div>
+
 
 
 **Build thoughtfully. Test rigorously. Keep improving.**
