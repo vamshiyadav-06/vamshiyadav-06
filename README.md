@@ -99,7 +99,7 @@ I care about **grounded responses, clear system boundaries, reliable APIs, secur
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true"
     alt="GitHub Contribution Graph"
-    width="95%"
+    width="85%"
   />
 
 </div>
