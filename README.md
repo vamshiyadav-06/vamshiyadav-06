@@ -87,19 +87,71 @@ I am an **AI Engineer & Python Developer** focused on turning complex language m
 
 ---
 
-## 📊 Activity & Stats
+
+## 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="160" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/vamshiyadav-06">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+      alt="Vamshi Yadav GitHub Stats"
+      height="170"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/vamshiyadav-06?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+      alt="Vamshi Yadav Top Languages"
+      height="170"
+    />
+  </a>
+
+  <br/>
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=vamshiyadav-06&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="65%"
+  />
+
+  <br/>
+  <br/>
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+
+  <br/>
+
+  <a href="https://github.com/vamshiyadav-06?tab=overview">
+    <img
+      src="https://img.shields.io/badge/View_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Contributions"
+    />
+  </a>
+
+  <br/>
+  <br/>
+
+  <b>Build thoughtfully. Test rigorously. Keep improving.</b>
+
+  <br/>
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"
+    width="100%"
+    alt="Footer Wave"
+  />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshiyadav-06&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built with precision by <b>Vamshi Yadav</b> • Hyderabad, India</sub>
-</div>
