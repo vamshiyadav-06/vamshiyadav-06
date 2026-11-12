@@ -70,24 +70,40 @@ API or user interface
 
 I care about **grounded responses, clear system boundaries, reliable APIs, security, and observable behavior**. I also enjoy evaluating where a simple API call is sufficient versus where retrieval or agent orchestration adds real value.
 
-## GitHub Activity
+
+<h2>📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in public repositories" height="160" />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="170"
+  />
+
+  <br/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=vamshiyadav-06&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <br/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+    width="95%"
+  />
+
 </div>
 
-<sub>Language statistics reflect public repository code, not overall skill proficiency. Third-party statistics may occasionally be unavailable.</sub>
-
-## Let's Connect
-
-I'm interested in opportunities and collaborations involving **Python, backend systems, generative AI, RAG, and agentic applications**.
-
-- **Portfolio:** [portfolio-vamshi-4c7e.vercel.app](https://portfolio-vamshi-4c7e.vercel.app/)
-- **LinkedIn:** [vamshi-budida-087151425](https://www.linkedin.com/in/vamshi-budida-087151425/)
-- **GitHub:** [@vamshiyadav-06](https://github.com/vamshiyadav-06)
-
-<div align="center">
 
 **Build thoughtfully. Test rigorously. Keep improving.**
 
