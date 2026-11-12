@@ -71,47 +71,68 @@ API or user interface
 I care about **grounded responses, clear system boundaries, reliable APIs, security, and observable behavior**. I also enjoy evaluating where a simple API call is sufficient versus where retrieval or agent orchestration adds real value.
 
 
-<h2>📊 GitHub Activity & Statistics</h2>
+
+<h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=vamshiyadav-06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Vamshi's GitHub Stats"
     height="170"
   />
 
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshiyadav-06&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="170"
   />
 
   <br/>
+  <br/>
 
+  <!-- GitHub Streak -->
   <img
     src="https://streak-stats.demolab.com?user=vamshiyadav-06&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub Contribution Streak"
+    width="65%"
   />
 
   <br/>
+  <br/>
 
-  
-
-<div align="center">
+  <!-- Contribution Activity Graph -->
   <a href="https://github.com/vamshiyadav-06">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=github-dark&hide_border=true&area=true"
-      alt="Vamshi Yadav GitHub Contribution Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=vamshiyadav-06&theme=tokyo-night&hide_border=true&area=true&radius=8"
+      alt="GitHub Contribution Activity Graph"
       width="100%"
     />
   </a>
-</div>
 
+  <br/>
+  <br/>
 
+  <!-- GitHub Profile -->
+  <a href="https://github.com/vamshiyadav-06?tab=overview">
+    <img
+      src="https://img.shields.io/badge/View_My_GitHub_Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub Contributions"
+    />
+  </a>
 
-**Build thoughtfully. Test rigorously. Keep improving.**
+  <br/>
+  <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4" width="100%" alt="Footer wave" />
+  <p><b>Build thoughtfully. Test rigorously. Keep improving.</b></p>
+
+  <!-- Footer -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"
+    width="100%"
+    alt="Footer Wave"
+  />
 
 </div>
