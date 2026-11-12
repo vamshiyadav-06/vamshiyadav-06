@@ -97,7 +97,6 @@ I care about **grounded responses, clear system boundaries, reliable APIs, secur
   <br/>
 
   
-<h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <div align="center">
   <a href="https://github.com/vamshiyadav-06">
